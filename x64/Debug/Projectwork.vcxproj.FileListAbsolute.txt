@@ -1,0 +1,2 @@
+C:\Soft.vs studio\Projectwork\x64\Debug\Projectwork.exe
+C:\Soft.vs studio\Projectworkmario\x64\Debug\Projectwork.exe

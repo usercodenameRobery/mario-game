@@ -1,0 +1,57 @@
+﻿  main.cpp
+C:\Soft.vs studio\Projectworkmario\main.cpp(53,1): warning C4305: =: усечение из "double" в "float"
+C:\Soft.vs studio\Projectworkmario\main.cpp(65,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Soft.vs studio\Projectworkmario\main.cpp(71,24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Soft.vs studio\Projectworkmario\main.cpp(88,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(89,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(99,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(107,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(136,23): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(136,20): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(138,1): warning C4305: =: усечение из "double" в "float"
+C:\Soft.vs studio\Projectworkmario\main.cpp(150,24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Soft.vs studio\Projectworkmario\main.cpp(165,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(166,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(175,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Soft.vs studio\Projectworkmario\main.cpp(214,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Soft.vs studio\Projectworkmario\main.cpp(229,65): warning C4305: =: усечение из "double" в "float"
+C:\Soft.vs studio\Projectworkmario\main.cpp(231,65): warning C4305: =: усечение из "double" в "float"
+C:\Soft.vs studio\Projectworkmario\main.cpp(233,83): warning C4305: =: усечение из "double" в "float"
+C:\Soft.vs studio\Projectworkmario\main.cpp(244,54): warning C4305: =: усечение из "double" в "float"
+  Projectwork.vcxproj -> C:\Soft.vs studio\Projectworkmario\x64\Debug\Projectwork.exe
